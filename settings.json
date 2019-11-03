@@ -1,0 +1,27 @@
+{
+    "breadcrumbs.enabled": true,
+    "editor.acceptSuggestionOnEnter": "on",
+    "editor.cursorSurroundingLines": 5,
+    "editor.insertSpaces": false,
+    "editor.suggestSelection": "first",
+    "explorer.confirmDragAndDrop": false,
+    "extensions.ignoreRecommendations": true,
+    "files.exclude": {
+        "**/.classpath": true,
+        "**/.factorypath": true,
+        "**/.project": true,
+        "**/.settings": true
+    },
+    "files.trimTrailingWhitespace": true,
+    "javascript.suggestionActions.enabled": false,
+    "javascript.updateImportsOnFileMove.enabled": "never",
+    "javascript.validate.enable": false,
+    "[markdown]": {
+        "editor.wordWrap": "wordWrapColumn",
+        "editor.wordWrapColumn": 100
+    },
+    "typescript.updateImportsOnFileMove.enabled": "always",
+    "typescript.validate.enable": false,
+    "window.zoomLevel": 0,
+    "workbench.startupEditor": "none",
+}
