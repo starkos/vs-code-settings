@@ -27,4 +27,7 @@
     "update.showReleaseNotes": false,
     "window.zoomLevel": 0,
     "workbench.startupEditor": "none",
+    "[xml]": {
+        "editor.wordWrap": "on"
+    },
 }
