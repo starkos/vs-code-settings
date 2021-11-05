@@ -21,11 +21,11 @@
         "editor.wordWrap": "wordWrapColumn",
         "editor.wordWrapColumn": 100
     },
-    "terminal.integrated.shell.windows": "C:\\Program Files\\Git\\bin\\bash.exe",
+    "security.workspace.trust.untrustedFiles": "open",
     "typescript.updateImportsOnFileMove.enabled": "always",
     "typescript.validate.enable": false,
     "update.showReleaseNotes": false,
-    "window.zoomLevel": 0,
+    "workbench.colorTheme": "Visual Studio Dark",
     "workbench.startupEditor": "none",
     "[xml]": {
         "editor.wordWrap": "on"
