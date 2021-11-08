@@ -30,4 +30,35 @@
     "[xml]": {
         "editor.wordWrap": "on"
     },
+    "workbench.colorTheme": "Visual Studio Dark",
+    "sonarlint.output.showVerboseLogs": true,
+    "sonarlint.output.showAnalyzerLogs": true,
+    "java.project.importOnFirstTimeStartup": "automatic",
+    "sonarlint.rules": {
+        "java:S100": {
+            "level": "off"
+        },
+        "java:S131": {
+            "level": "off"
+        },
+        "java:S110": {
+            "level": "off"
+        },
+        "java:S1066": {
+            "level": "off"
+        },
+        "java:S1301": {
+            "level": "off"
+        },
+        "java:S1192": {
+            "level": "off"
+        },
+        "java:S101": {
+            "level": "off"
+        },
+        "java:S3252": {
+            "level": "off"
+        }
+    },
+    "security.workspace.trust.untrustedFiles": "open"
 }
