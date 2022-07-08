@@ -25,7 +25,7 @@
     "typescript.updateImportsOnFileMove.enabled": "always",
     "typescript.validate.enable": false,
     "update.showReleaseNotes": false,
-    "workbench.colorTheme": "Visual Studio Dark",
+    "workbench.colorTheme": "Default Light+",
     "workbench.startupEditor": "none",
     "[xml]": {
         "editor.wordWrap": "on"
